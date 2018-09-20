@@ -29,7 +29,14 @@ Clone the repository, just like you did for the Portfolio and Think-Java.
 * Create your masterpiece.
 * git add .
   * best to do this at the ROOT of your project directory
-* git commit -m ""
+* git commit -m "My first processing project"
 * git push.
 * After you have pushed your code, publish your github project. 
 * Finally, update your portfolio to reflect your finished project.
+
+## Example works
+* [Lasers](https://willisli.github.io/OriginalDesign/)
+* [Hoot](https://susanm87.github.io/OriginalDesign/)
+* [Warp drive](https://ethantruong.github.io/SampleAssignment/)
+* [caterpillar](https://elkirwan.github.io/OriginalDesign/)
+* [beautiful bridge](https://someguy13.github.io/OriginalDesign/)
