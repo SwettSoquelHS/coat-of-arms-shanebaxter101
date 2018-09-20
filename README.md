@@ -28,7 +28,7 @@ Clone the repository, just like you did for the Portfolio and Think-Java.
   * This will be the file you edit and check in when you are finished.
 * Create your masterpiece.
 * git add .
-*  best to do this at the ROOT of your project directory
+  * best to do this at the ROOT of your project directory
 * git commit -m ""
 * git push.
 * After you have pushed your code, publish your github project. 
