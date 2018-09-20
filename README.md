@@ -21,12 +21,14 @@ Clone the repository, just like you did for the Portfolio and Think-Java.
 * **Start the Sublime** program and choose File | Open Folder then browse to and open the coat-of-arms folder.
 * **Modify index.html** to personalize the title, headline and footer and save your changes by choosing File | Save
 * **Launch Processing** (if it isn't already running)
-  * This step may seem odd, so hold tight.
+  * This next step may seem odd, so hold tight.
   * From Processing, **Open** the coat-of-arms.pde file. Do this by, browsing to coat-of-arms project, this directory also contains a "coat-of-arms" directory.
+    * So ... apcs\java\coat-of-arms\coat-of-arms\coat-of-arms.pde
   * There should be an empty coat-of-arms.pde file in this directory.
   * This will be the file you edit and check in when you are finished.
 * Create your masterpiece.
 * git add .
+*  best to do this at the ROOT of your project directory
 * git commit -m ""
 * git push.
 * After you have pushed your code, publish your github project. 
