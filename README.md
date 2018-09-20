@@ -40,3 +40,7 @@ Clone the repository, just like you did for the Portfolio and Think-Java.
 * [Warp drive](https://ethantruong.github.io/SampleAssignment/)
 * [caterpillar](https://elkirwan.github.io/OriginalDesign/)
 * [beautiful bridge](https://someguy13.github.io/OriginalDesign/)
+* [Tie fighter](https://chaseabm.github.io/OriginalDesign/)
+* [Silly](https://kecoffey1.github.io/OriginalDesign/)
+* [Loading](https://james168ma.github.io/OriginalDesign/)
+
