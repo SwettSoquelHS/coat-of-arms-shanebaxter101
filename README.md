@@ -8,6 +8,11 @@ Your project will also define four functions:
 * void draw()
 * At least two of your own custom functions 
 
+Advanced features:
+* Animation!
+* Using other drawing API beyond 2D primitives.
+* Using advanced color effects like alpha for opacity effects (like ghosting).
+
 
 ## Steps to complete this assignment:
 You've already accepted this assignment on github. The next step is to clone the assignment to your laptop.
